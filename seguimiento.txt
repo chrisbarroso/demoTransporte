@@ -1,0 +1,29 @@
+liquidacion agrgar numero de factura
+
+generar factura del 8 % 
+
+(debito y credito) -> cliente, proveedor, chofer
+Notas de debitos son sumas para el transporte
+Notas de credito son restas para el transporte
+
+cambiar liquidacion sin fecha de inicio
+
+Agregar numero de cuenta en cheque! agregar chequera 
+
+Impresion por camion y al mismo tiempo todo al dueno
+
+Agregar ultima fecha de liquidacion al dueno, al cliente, al proveedor
+
+Corregir nacimiento cuando editas el chofer
+
+
+
+
+
+columna de saldo --> realizado
+agregar mercancia a la carta de porte (maiz etc) --> realizado, revisar!
+
+
+
+
+Modificar formas de pago de cobransa recivo con todos sus pagos

@@ -1,0 +1,33 @@
+@media (min-width: 992px) {
+    .modal-lg {
+      width: 1000px;
+    }
+  }
+
+.navbar-default .brand {
+    background-color: transparent;
+}
+.logo {
+    width: 300px;
+}
+.li-nav {
+padding: 30px !important;
+}
+
+.panel-footer {
+    background-color: #2b333e;
+}
+
+.nav hr {
+    margin: 0px;
+    border-top: 3px solid #2B333E;
+}
+
+#message {
+    position: fixed;
+    float: right;
+    top: 100px;
+    right: 10px;
+    width: 40%;
+    z-index: 1;
+}
